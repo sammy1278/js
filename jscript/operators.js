@@ -1,0 +1,14 @@
+let a=15
+let b=6
+let add=a+b
+console.log(`${a}+${b}=${add}`)
+let sub=a-b
+console.log(`${a}-${b}=${sub}`)
+let div=a/b
+console.log(`${a}/${b}=${div}`)
+let mul=a*b
+console.log(`${a}*${b}=${mul}`)
+let ex=a**b
+console.log(`${a}**${b}=${ex}`)
+let module=a%b
+console.log(`${a}%${b}=${module}`)
